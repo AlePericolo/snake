@@ -2,8 +2,8 @@
   "database": {
     "host": "127.0.0.1",
     "user": "root",
-    "password": "", #view mysql pwd in portainer
-    "database": "" #dbname
+    "password": "", //view mysql pwd in portainer - delete comments
+    "database": "" //dbname - delete comments
   },
   "file": {
     "path": "/data/score/score.txt"
